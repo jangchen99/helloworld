@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189788004019",
+    "firebase_url": "https://howltwostagram2.firebaseio.com",
+    "project_id": "howltwostagram2",
+    "storage_bucket": "howltwostagram2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189788004019:android:4aa151db0ea714f7a65ac6",
+        "android_client_info": {
+          "package_name": "com.example.howltwostagram2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189788004019-umbioj6gfs2i43d36nrbhjf0jpur4rih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.howltwostagram2",
+            "certificate_hash": "721f95b2ee3a6074f5138882c1b8d0a5aaaa5d35"
+          }
+        },
+        {
+          "client_id": "189788004019-9d4dda8gohm3li01sia7h2c7l75m88dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fIOigpCz60VdSg4IydVBY60e3gdPC0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189788004019-9d4dda8gohm3li01sia7h2c7l75m88dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
